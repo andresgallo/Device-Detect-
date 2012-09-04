@@ -1,3 +1,4 @@
+/*DeviceType by Andres Gallo*/
 /*Front end device detection. Useful for UI needs and more */
 
 var deviceType = {
