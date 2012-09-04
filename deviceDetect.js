@@ -1,3 +1,5 @@
+/*Front end device detection. Useful for UI needs and more */
+
 var deviceType = {
 	isMobile       : false,
 	isTablet       : false,
